@@ -1,3 +1,7 @@
+github.com/dajabe/hugo-openapi-documentation v0.0.0-20210205224047-675855019f88 h1:d1bbygkia+NMeGkqGXy0o81OR5s0msRVNfSS+Pih25A=
+github.com/dajabe/hugo-openapi-documentation v0.0.0-20210205224047-675855019f88/go.mod h1:/+DDHIafyug7BdRXLE5KW7lHSxPEZrkTlTIErih3rkM=
+github.com/dajabe/hugo-openapi-documentation v0.0.0-20241211080003-a87deb1c9c34 h1:5/k1dkimYrPFCUvyCo76ekxC5GNo2ZEuDB8at/MzXl0=
+github.com/dajabe/hugo-openapi-documentation v0.0.0-20241211080003-a87deb1c9c34/go.mod h1:+kkqaGEEJ8TtF0Pyz96QijvpM9t2EyKccCrYUv6IuOU=
 github.com/onweru/compose v0.0.0-20230709163331-af3e133abf10 h1:6+OU3YpznL1bAy1s4B9KhEteRN+qo5T9vgYTWuGHpLw=
 github.com/onweru/compose v0.0.0-20230709163331-af3e133abf10/go.mod h1:tf1kQIBUcwJ/3mRFU5eiMrMvsDScVTK2IEFsZE3hZOc=
 github.com/onweru/compose v0.0.0-20230709170553-cdf6b3d268e3 h1:LQ9aw508QrowSWfr8m7Q43AelhGTaNhX+obnkCWefKg=
@@ -28,3 +32,5 @@ github.com/onweru/compose v0.0.0-20240114135539-a7a9df6d34b9 h1:pRRosz/W2ZKxruZ5
 github.com/onweru/compose v0.0.0-20240114135539-a7a9df6d34b9/go.mod h1:2eSBLsKzvKf3r4/vHiKdakIBqDtWACDAqAD7tRdt00o=
 github.com/onweru/compose v0.0.0-20240711165024-0ea6ac76134e h1:ljas9s4I9bPPkSEkk7CXkDitWxrHUmIlrfLmojpHCcI=
 github.com/onweru/compose v0.0.0-20240711165024-0ea6ac76134e/go.mod h1:2eSBLsKzvKf3r4/vHiKdakIBqDtWACDAqAD7tRdt00o=
+github.com/onweru/compose v0.0.0-20241208175229-1ec9a38c9700 h1:wvj7P99JzXr4t7qjc5RqOqi6hghGMsvSWzSKvfbXLdw=
+github.com/onweru/compose v0.0.0-20241208175229-1ec9a38c9700/go.mod h1:2eSBLsKzvKf3r4/vHiKdakIBqDtWACDAqAD7tRdt00o=
